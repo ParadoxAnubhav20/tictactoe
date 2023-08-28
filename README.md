@@ -27,18 +27,7 @@ This project showcases a basic interactive Tic-Tac-Toe game that can be played i
 4. The game will automatically detect a win or a draw and display the result.
 5. Click the "Reset" button to start a new game.
 
-## Preview
-
-You can see a preview of the game below:
-![Tic-Tac-Toe Preview]()
-
-## Future Enhancements
-
-- Implement an AI opponent for single-player mode.
-- Add more stylish animations and effects.
-- Allow customization of player names and markers.
-
 ## Credits
 
-This project was created by [Your Name]. You can find the source code and license information on the [GitHub repository](https://github.com/yourusername/tic-tac-toe).
+This project was created by Anubhav. You can find the source code and license information on the [GitHub repository](https://github.com/ParadoxAnubhav20/tictactoe).
 
